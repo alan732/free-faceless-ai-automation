@@ -59,17 +59,7 @@ The supplied ZIP's README makes claims about original code/assets and mentions l
 
 Do not treat the starter pack's statements about use in generated videos as permission to rehost or redistribute the source archive.
 
-## Roadmap
 
-- [x] Create the public repository
-- [x] Inspect the supplied PDF and starter-pack documentation
-- [ ] Verify the supported assistant/runtime and Windows setup
-- [ ] Review scripts and bundled third-party notices
-- [ ] Publish beginner-friendly English documentation
-- [ ] Publish a Hindi setup guide
-- [ ] Create a screenshot-based PDF tutorial
-- [ ] Add verified setup, troubleshooting, and publishing instructions
-- [ ] Add source files only after redistribution rights are confirmed
 
 ## Contributions
 
