@@ -12,7 +12,7 @@ Create engaging vertical videos for:
 
 The original starter pack provides six different animation styles and a workflow for turning a simple topic into a narrated, animated video.
 
-> **Project Status:** Under development. The supplied starter pack is documented primarily for Claude Code. Antigravity compatibility is experimental and has not yet been independently verified.
+> **Project Status:** fully wokring . The supplied starter pack is documented primarily for Claude Code. Antigravity compatibility is experimental and has not yet been independently verified.
 
 ---
 
